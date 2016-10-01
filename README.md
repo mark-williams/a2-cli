@@ -2,6 +2,11 @@
 
 This project was generated with [angular-cli](https://github.com/angular/angular-cli) version 1.0.0-beta.16.
 
+###1 Oct 2016
+To check tests work amended the main text (all the app does at the moment is display this!). Unit and e2e tests failed and were subsequently 'fixed' (by hardcoding the new expected text).
+
+
+##angular-cli notes##
 ## Development server
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
